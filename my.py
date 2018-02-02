@@ -1,9 +1,10 @@
 import gravity
 
 import xkcd
+import pip
 
+hello
 
-xkcd + gravity
-
+xkcd * gravity
 
 steve+ mike + susan
