@@ -3,4 +3,4 @@ import gravity
 import xkcd
 
 
-xkcd(gravity)
+xkcd + gravity
