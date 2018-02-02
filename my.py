@@ -1,6 +1,6 @@
 import gravity
 
 import xkcd
+import pip
 
-
-xkcd(gravity)
+xkcd *gravit
